@@ -9,19 +9,9 @@
 
 A hands-on password-auditing lab from the **NetworkWalks Cybersecurity & Ethical Hacking Program (Batch B084J)**: using **John the Ripper (JTR)** and its graphical front end **Johnny** to recover the password of a protected PDF on a Windows PC.
 
-> 🔗 Project post: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7528635127849971712/)
+> 🔗 Project post: [LinkedIn](https://lnkd.in/p/daBwpxwp)
 
 ---
-
-<details>
-<summary><strong>📌 Documentation notes (click to expand)</strong></summary>
-
-- Screenshots below are grouped into workflow stages and ordered by filename timestamp. Each caption describes the *expected* action at that point in the lab manual's sequence — the exact visual content of each image hasn't been individually confirmed, so adjust any caption that doesn't match what's actually shown.
-- The lab manual names the test file `My Locked PDF1.pdf`; adjust if your repo's `PDF/` folder uses a different filename.
-- The manual's own steps don't name a specific wordlist for Johnny's "Start new attack" — rockyou is referenced here on the project description provided; confirm against your screenshots which attack mode/wordlist Johnny was actually set to.
-
-</details>
-
 ---
 
 ## Table of Contents
@@ -91,11 +81,7 @@ NETWORKWALKS-B084J-WK3-JTR-PASSWORD-AUDIT/
 │   ├── Screenshot 2026-11-16 015330.png
 │   ├── ... (25 screenshots total — see Screenshot Evidence below)
 │   └── Screenshot 2026-11-16 023610.png
-│
-├── PDF/
-│   └── My Locked PDF1.pdf   (confirm exact filename against the repo)
-│
-└── W3-PM1 - Week3 - Project Module1 - Password Cracking with JTR v1   (lab manual)
+
 ```
 
 ## Practical Workflow
@@ -258,12 +244,9 @@ This project was carried out strictly for educational purposes, as part of an au
 
 ## Author
 
-**Rajatava Ghosh**
+**Utsav Kumar Thakur**
 Cybersecurity Student — NetworkWalks Cybersecurity & Ethical Hacking Program (Batch B084J)
 
-- GitHub: [RaxingR](https://github.com/RaxingR) (this lab repository is hosted under [Hypo46](https://github.com/Hypo46))
-- LinkedIn: [rajatava-ghosh](https://www.linkedin.com/in/rajatava-ghosh-265aa6316/)
-- Project post: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7528635127849971712/)
 
 ## Disclaimer
 
