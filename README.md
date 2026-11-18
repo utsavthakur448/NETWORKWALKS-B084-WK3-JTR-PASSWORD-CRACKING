@@ -7,7 +7,7 @@
 ![GUI](https://img.shields.io/badge/GUI-Johnny-6E56CF)
 ![Status](https://img.shields.io/badge/Status-Educational%20Lab-success)
 
-A hands-on password-auditing lab from the **NetworkWalks Cybersecurity & Ethical Hacking Program (Batch B084J)**: using **John the Ripper (JTR)** and its graphical front end **Johnny** to recover the password of a protected PDF on a Windows PC.
+A hands-on password-auditing lab from the **NetworkWalks Cybersecurity & Ethical Hacking Program (Batch B084)**: using **John the Ripper (JTR)** and its graphical front end **Johnny** to recover the password of a protected PDF on a Windows PC.
 
 > 🔗 Project post: [LinkedIn](https://lnkd.in/p/daBwpxwp)
 
@@ -72,7 +72,7 @@ This lab uses both tools together, in a controlled training environment, to reco
 ## Repository Structure
 
 ```text
-NETWORKWALKS-B084J-WK3-JTR-PASSWORD-AUDIT/
+NETWORKWALKS-B084-WK3-JTR-PASSWORD-CRACKING/
 │
 ├── README.md
 │
@@ -245,7 +245,7 @@ This project was carried out strictly for educational purposes, as part of an au
 ## Author
 
 **Utsav Kumar Thakur**
-Cybersecurity Student — NetworkWalks Cybersecurity & Ethical Hacking Program (Batch B084J)
+Cybersecurity Student — NetworkWalks Cybersecurity & Ethical Hacking Program (Batch B084)
 
 
 ## Disclaimer
